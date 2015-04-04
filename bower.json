@@ -1,0 +1,13 @@
+{
+  "name": "jquery-typing",
+  "version": "0.3.3",
+  "homepage": "https://github.com/ccakes/jquery-typing",
+  "authors": [
+    "Maciej Konieczny <hello@narf.pl>",
+    "Tom Najdek <tom@doppnet.com>"
+  ],
+  "description": "assign callbacks for started/stopped typing events",
+  "main": "plugin/jquery.typing-0.3.3.js",
+  "license": "Public Domain",
+  "private": true
+}
